@@ -1,2 +1,1 @@
-# SpendSpy
-Python based personal finance tracker with expense categorization, budgeting and visualizations
+💸 SpendSpy is a Python-based personal finance tracker that helps users manage expenses, automatically categorize bank transactions, visualize spending habits, set monthly budgets, and generate financial reports through a user-friendly desktop interface.
