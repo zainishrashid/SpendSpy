@@ -1,0 +1,93 @@
+{
+  "Income": [
+    "payroll",
+    "salary",
+    "transfer from",
+    "interest paid"
+  ],
+  "Rent": [
+    "rent"
+  ],
+  "Transport": [
+    "opal",
+    "uber *trip",
+    "didi",
+    "shell",
+    "bp ",
+    "7-eleven fuel",
+    "fuel"
+  ],
+  "Dining": [
+    "mcdonalds",
+    "kfc",
+    "dominos",
+    "uber *eats",
+    "doordash",
+    "guzman",
+    "subway",
+    "chatime",
+    "menulog",
+    "restaurant"
+  ],
+  "Coffee": [
+    "starbucks",
+    "gloria jeans",
+    "cafe",
+    "coffee"
+  ],
+  "Groceries": [
+    "woolworths",
+    "coles",
+    "aldi",
+    "harris farm",
+    "iga"
+  ],
+  "Utilities": [
+    "telstra",
+    "origin",
+    "optus",
+    "agl",
+    "vodafone"
+  ],
+  "Entertainment": [
+    "netflix",
+    "spotify",
+    "hoyts",
+    "steam",
+    "eventbrite",
+    "disney"
+  ],
+  "Shopping": [
+    "amazon",
+    "kmart",
+    "uniqlo",
+    "jb hi-fi",
+    "cotton on",
+    "bunnings"
+  ],
+  "Health": [
+    "chemist",
+    "priceline",
+    "anytime fitness",
+    "dental",
+    "pharmacy"
+  ],
+  "Education": [
+    "co-op bookshop",
+    "coursera",
+    "udemy",
+    "officeworks"
+  ],
+  "Travel": [
+    "qantas",
+    "jetstar",
+    "virgin australia",
+    "airbnb"
+  ],
+  "Cash": [
+    "atm"
+  ],
+  "Car": [
+    "fuel"
+  ]
+}
